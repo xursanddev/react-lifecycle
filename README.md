@@ -1,1 +1,1 @@
-#<h1> React lifecycle </h1>
+Bu maqola React kutubxonasining React Lifecycle mavzusida bo'ladi :)
