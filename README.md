@@ -1,1 +1,1 @@
-### <h2 style="align-items: center;"> React lifecycle </h2>
+## <h1> React lifecycle </h1>
